@@ -1396,7 +1396,7 @@ local function synsaveinstance(CustomOptions, CustomOptions2)
 		mode = "optimized",
 		noscripts = false,
 		scriptcache = true,
-		decomptype = "",
+		decomptype = "custom",
 		timeout = 10,
 		--* New:
 		__DEBUG_MODE = false,
